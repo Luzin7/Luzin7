@@ -7,5 +7,5 @@ I'm Luan Victor. I'm a programming student.
 - :pencil: I’m currently learning Vue JS. I've had experience with C#, JavaScript, Kotlin, and C.
 
 ## Contact
-- [![Linkedin Badge](https://img.shields.io/badge/-Luan_Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictordutra/)](linkedin.com/in/lvictordutra)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lvictordutra/)
 - :e-mail: lvictor.dutra@gmail.com 
