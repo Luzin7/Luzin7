@@ -10,7 +10,7 @@ Sou um desenvolvedor web frontend, estudante autônomo e apaixonado por criar so
 <div align="right">
 <a href="https://github.com/luzin7">
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
   </a>
 </div
 
