@@ -7,10 +7,10 @@
 
 Sou um desenvolvedor web frontend, estudante autônomo e apaixonado por criar soluções usando as mais modernas tecnologias web. Assim como qualquer pessoa, já vivi diferentes fases e gostos mas o interesse em programação sempre se manteve. Já trilhei por algumas áreas da programação, desde desenvolvedor de jogos digitais até desenvolvedor web, o qual eu mais me indentifiquei e desejo sempre progredir ir cada vez mais longe. 
 
-<div align="right">
+<div align="left">
 <a href="https://github.com/luzin7">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
   </a>
 </div
 
