@@ -9,10 +9,9 @@ Sou um desenvolvedor web frontend, estudante autônomo e apaixonado por criar so
 
 <div>
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
 </div
 
-  <div style="display: inline_block">
 Sou um desenvolvedor web frontend com experiência em:
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,5 +27,3 @@ Sou um desenvolvedor web frontend com experiência em:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 💼 Acesse o meu [portfólio](https://lvictor-portfolio.vercel.app/) para ver alguns dos meus projetos mais recentes e os detalhes do meu trabalho.
-  
-</div>
