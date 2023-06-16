@@ -10,7 +10,7 @@ Sou um desenvolvedor web frontend, estudante autônomo e apaixonado por criar so
 <div align="left">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/647f91e040cee644b287ea09?variant=dark&roadmaps=javascript%2Creact%2Cfrontend%2Cfull-stack" alt="roadmap.sh"/></a>
+<img src="https://api.roadmap.sh/v1-badge/wide/647f91e040cee644b287ea09?variant=dark&roadmaps=react%2Cjavascript%2Cfrontend%2Cfull-stack" alt="roadmap.sh"/>
 </div
 
 
