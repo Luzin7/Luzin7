@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Luan_Victor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictordutra/)](https://www.linkedin.com/in/lvictordutra/)
 [![Portfolio Badge](https://img.shields.io/badge/-portfolio-1b1f23?style=flat&logo=vercel&logoColor=white&link=https://lvictor-portfolio.vercel.app/)](https://lvictor-portfolio.vercel.app/)
 
-Sou um desenvolvedor web frontend, estudante autônomo e apaixonado por criar soluções usando as mais modernas tecnologias web. Assim como qualquer pessoa, já vivi diferentes fases e gostos mas o interesse em programação sempre se manteve. Já trilhei por algumas áreas da programação, desde desenvolvedor de jogos digitais até desenvolvedor web, o qual eu mais me indentifiquei e desejo sempre progredir ir cada vez mais longe. 
+Sou um desenvolvedor de sotftware, autodidata e apaixonado por criar soluções usando as mais modernas tecnologias web. Assim como qualquer pessoa, já vivi diferentes fases e gostos mas o interesse em programação sempre se manteve. Já trilhei por algumas áreas da programação, desde desenvolvedor de jogos digitais até desenvolvedor web, o qual eu mais me indentifiquei e desejo sempre progredir ir cada vez mais longe. 
 
 <div align="left">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
