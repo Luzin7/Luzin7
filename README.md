@@ -2,11 +2,7 @@
 
 # Olá, eu sou Luan! 🎈
 
-### 💼 Experiência
-
-- 💼 Profissional de suporte de TI com o objetivo de se tornar um desenvolvedor full-stack.
-- 🧠 Apaixonado por programação e focado no aprimoramento constante.
-- 🎯 Minha paixão é decifrar desafios complexos e traduzi-los em soluções elegantes e eficazes.
+Um eterno curioso que gosta de automatizar processos e trazer eficiência por onde passo.
 
 #### Linguagens:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -29,7 +25,7 @@
 ### Deploy:
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Onde está indo minha curiosidade agora? 👀
+### Onde está indo minha curiosidade agora 👀:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
