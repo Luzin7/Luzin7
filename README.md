@@ -22,15 +22,10 @@ Um eterno curioso que gosta de automatizar processos e trazer eficiência por on
 #### Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/-Stylelint-563D7C?style=for-the-badge&logo=stylelint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Deploy:
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cyclic](https://img.shields.io/badge/-Cyclic-4d4d4d?style=for-the-badge) ![Backblaze](https://img.shields.io/badge/-Backblaze-005891?style=for-the-badge&logo=backblaze&logoColor=white) ![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-40c3ad?style=for-the-badge) ![Render](https://img.shields.io/badge/-Render-646CFF?style=for-the-badge&logo=render&logoColor=white)
-
-
 ### Onde está indo minha curiosidade agora 👀:
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### GitHub Stats ⚡
 <div align="center">
