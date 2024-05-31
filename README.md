@@ -3,7 +3,7 @@
 </h4>
 
 <h2 align="center">
-  FullStack Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinched%20Fingers%20Medium%20Skin%20Tone.png" alt="Pinched Fingers Medium Skin Tone" width="25" height="25" />
+  Desenvolvedor de software <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinched%20Fingers%20Medium%20Skin%20Tone.png" alt="Pinched Fingers Medium Skin Tone" width="25" height="25" />
 </h2>
 
 <div align='center'>
