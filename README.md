@@ -24,7 +24,7 @@
 
 ## &nbsp;Stacks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,java,spring,react,nextjs,vue,tailwind,electron,postgres,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,nestjs,spring,dotnet,nodejs,react,nextjs,vue,postgres,aws" />
 
 ## Sobre mim <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />
 
