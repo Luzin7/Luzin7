@@ -9,7 +9,5 @@
 
 <details align="left">
   <summary>Credits</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
    - Animated Emojis by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik</a>
 </details>
