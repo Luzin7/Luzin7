@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium%20Skin%20Tone.png" alt="Hand with Fingers Splayed" width="25" height="25" />
-  Sou desenvolvedor por profissão e um curioso por natureza.
+  Sou desenvolvedor e acima de tudo um curioso por natureza.
 </p>
 
 <p align="left">
