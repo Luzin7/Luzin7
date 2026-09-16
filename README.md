@@ -11,8 +11,6 @@
 
 ---
 
-### Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,react,nextjs" />
 </p>
