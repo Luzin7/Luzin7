@@ -1,35 +1,24 @@
-## Sobre mim <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />
-
 <p align="left">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium%20Skin%20Tone.png" alt="Hand with Fingers Splayed" width="25" height="25" />
-  Sou Engenheiro de Software e, acima de tudo, curioso por natureza.
+  Engenheiro de software backend. Construo APIs e serviços em Go e TypeScript. Venho me aprofundando em sistemas real-time e orientados a eventos.
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
-  Nas horas vagas, crio conteúdo sobre desenvolvimento e tecnologia no meu <a href="https://www.youtube.com/@devluanvictor">canal do YouTube</a>.
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy" width="25" height="25" />
-  Conectar com pessoas da área para aprender e compartilhar conhecimento é muito massa. Qualquer coisa fala comigo!
+  📍 Pernambuco, BR &nbsp;·&nbsp;
+  🎥 <a href="https://www.youtube.com/@devluanvictor">YouTube</a> &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/lvictordutra/">LinkedIn</a> &nbsp;·&nbsp;
+  🌐 <a href="https://luanvictor.com.br">luanvictor.com.br</a>
 </p>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,go,dotnet,docker,git,linux,mysql,postgres,mongodb,react,nextjs,vuejs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,react,nextjs" />
 </p>
 
 ---
 
-<details align="left">
-  <summary>Créditos</summary>
-  - Animated Emojis by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik</a>
-  <br>
-  - Tech Icons by <a href="https://skillicons.dev">Skill Icons</a>
-</details>
+- **Rinha de Backend 2025** ([`rinha-backend-2025-ts-nodejs`](https://github.com/Luzin7/rinha-backend-2025-ts-nodejs)) — sistema de pagamentos distribuído sob 1.5 vCPU / ~350MB de RAM: 2 réplicas de API + worker assíncrono + Redis + Nginx como load balancer, failover entre gateways. Primeira participação numa Rinha; resultado oficial: 274º de 510 submissões, lucro líquido de R$ 550 mil.
+- **Chat e voz em tempo real** ([`vozzera`](https://github.com/Luzin7/vozzera) + [`vozzera-frontend`](https://github.com/Luzin7/vozzera-frontend)) — backend em Go: WebSocket hub próprio para mensagens, sessões opacas com revogação e expiração deslizante, arquitetura em Vertical Slicing, sqlc + goose para migrations. Frontend em TanStack Start + React 19; voz via LiveKit.
+- **CLI** ([`confectus`](https://github.com/Luzin7/confectus)) — publicado no NPM e usada para inicializar outros projetos (`pcideal-web`, `rinha-backend-2025-ts-nodejs`, entre outros).
