@@ -3,16 +3,9 @@
 </p>
 
 <p align="left">
-  📍 Pernambuco, BR &nbsp;·&nbsp;
   🎥 <a href="https://www.youtube.com/@devluanvictor">YouTube</a> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/lvictordutra/">LinkedIn</a> &nbsp;·&nbsp;
   🌐 <a href="https://luanvictor.com.br">luanvictor.com.br</a>
-</p>
-
----
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,react,nextjs" />
 </p>
 
 ---
