@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  🎥 <a href="https://www.youtube.com/@devluanvictor">YouTube</a> &nbsp;·&nbsp;
+  🎥 <a href="https://www.youtube.com/@devluanvictor">YouTube (desabilitado até não sei quando)</a> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/lvictordutra/">LinkedIn</a> &nbsp;·&nbsp;
   🌐 <a href="https://luanvictor.com.br">luanvictor.com.br</a>
 </p>
